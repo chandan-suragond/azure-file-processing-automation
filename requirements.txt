@@ -1,0 +1,17 @@
+# Azure Storage Libraries
+azure-storage-file-datalake==12.9.0
+azure-storage-blob==12.19.1
+
+# Azure SDK Libraries
+azure-identity==1.13.0
+azure-mgmt-datafactory==2.1.0
+
+# Data Processing Libraries
+pandas==2.0.3
+openpyxl==3.1.2
+xlrd==2.0.1  # For reading .xls files
+pyxlsb==1.0.10  # For reading .xlsb files
+
+# Utility Libraries
+python-dotenv==1.0.0  # For loading environment variables
+tqdm==4.65.0  # For progress bars
